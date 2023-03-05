@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+#### This organization was created to store all my portfolio sites in one place
 <!--
+
 
 **Here are some ideas to get you started:**
 
